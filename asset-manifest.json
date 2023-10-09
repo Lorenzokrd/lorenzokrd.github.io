@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3fcdd17f.css",
+    "main.js": "/static/js/main.70a0c641.js",
+    "static/media/bordspel.png": "/static/media/bordspel.4955486866c6b85bd51c.png",
+    "static/media/rotterdam-bezorgd.png": "/static/media/rotterdam-bezorgd.25e91de18506e66bf3b5.png",
+    "static/media/swisscom.png": "/static/media/swisscom.a9b52eab19819d97131a.png",
+    "static/media/triptracker.png": "/static/media/triptracker.a45c5546b4ce03d7cda8.png",
+    "static/media/crime-dashboard.png": "/static/media/crime-dashboard.37422e82ebf706a8f2fa.png",
+    "index.html": "/index.html",
+    "main.3fcdd17f.css.map": "/static/css/main.3fcdd17f.css.map",
+    "main.70a0c641.js.map": "/static/js/main.70a0c641.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fcdd17f.css",
+    "static/js/main.70a0c641.js"
+  ]
+}
